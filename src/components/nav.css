@@ -1,0 +1,12 @@
+.navbar{
+    position: sticky;
+    top:0;
+    z-index: 1020;
+    width: 100%;
+    display: flex;
+    
+}
+.nav-link{
+    display: inline-block;
+    color:black;
+}

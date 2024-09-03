@@ -1,0 +1,50 @@
+[
+    {   
+        "id":1,
+        "name":"Yoda",
+        "img":"images/yoda.webp"
+    },
+    {   
+        "id":2,
+        "name":"Darth Vader",
+        "img":"images/darth_vader.webp"
+    },
+    {   
+        "id":3,
+        "name":"Rey",
+        "img":"images/rey.jpg"
+    },
+    {   
+        "id":4,
+        "name":"Han Solo",
+        "img":"images/han_solo.webp"
+    },
+    {   
+        "id":5,
+        "name":"Grogu",
+        "img":"images/grogu.webp"
+    },
+    {   
+        "id":6,
+        "name":"Boba Fett",
+        "img":"images/boba fett.webp"
+    },
+    {   
+        "id":7,
+        "name":"Darth Maul",
+        "img":"images/darth_maul.webp"
+    },
+    {   
+        "id":8,
+        "name":"Leia Organa",
+        "img":"images/leia organa.webp"
+    },
+    {   
+        "id":9,
+        "name":"Mandalorian",
+        "img":"images/mandalorian.webp"
+    }
+   
+
+
+]
